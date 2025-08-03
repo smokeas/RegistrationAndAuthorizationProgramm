@@ -5,9 +5,11 @@ int main(int argc, char* argv[]) {
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
     srand(time(NULL));
-
+//ГОЙДА ГОЙДА ГОАЙД
+    /ЫЩАТЫЩВА
+    SDPFKSIPKFISPDKF
     if (argc < 2) {
-        printf("�������������: %s users.txt\n", argv[0]);
+        printf("Èñïîëüçîâàíèå: %s users.txt\n", argv[0]);
         return 1;
     }
 
@@ -30,7 +32,7 @@ int main(int argc, char* argv[]) {
         case 1: user_login(filename); break;
         case 2: admin_panel(filename); break;
         case 3: register_user(filename); break;
-        case 4: printf("\n�� ��������.\n"); break;
+        case 4: printf("\nÄî ñâèäàíèÿ.\n"); break;
         }
         if (choice != 4) system("pause");
     } while (choice != 4);
