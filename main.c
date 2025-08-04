@@ -8,6 +8,17 @@ int main(int argc, char* argv[]) {
 //ГОЙДА ГОЙДА ГОАЙД
     /ЫЩАТЫЩВА
     SDPFKSIPKFISPDKF
+       SDPFKSIPKFISPDKF
+       SDPFKSIPKFISPDKF
+       SDPFKSIPKFISPDKF
+       SDPFKSIPKFISPDKF
+       SDPFKSIPKFISPDKF
+       SDPFKSIPKFISPDKF
+       SDPFKSIPKFISPDKF
+    qerfwe]\'G;R[EG.F;CVAR. /
+// WRF WE[. FRPW F
+        F E';F, WE;F, WE.F '; 
+     /// WERF WE FWEF WEF
     if (argc < 2) {
         printf("Èñïîëüçîâàíèå: %s users.txt\n", argv[0]);
         return 1;
